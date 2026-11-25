@@ -98,16 +98,16 @@ Exemplos:
 
 1. Clone o repositório  
    ```bash
-   git clone https://github.com/ThiagoTasseli/treino-logica-java.git
+   git clone https://github.com/ThiagoTasseli/java-logica-exercicios.git
    ```
 2. Entre na pasta do projeto  
    ```bash
-   cd treino-logica-java
+   cd java-logica-exercicios
    ```
 3. Compile e execute um exercício  
    ```bash
-   javac src/aritmetica/aritmetica.Exercicio01.java
-   java -cp src aritmetica.aritmetica.Exercicio01
+   javac -d out src/aritmetica/Exercicio02.java
+   java -cp out aritmetica.Exercicio02
    ```
 
 ---
@@ -130,7 +130,7 @@ Exemplos:
 Desenvolvedor em formação | Treinando lógica e fundamentos em Java  
 📍 São Paulo – SP  
 💼 [LinkedIn](https://www.linkedin.com/in/thiagotasseli-tech)  
-🐙 [GitHub](https://github.com/tasselii)
+🐙 [GitHub](https://github.com/ThiagoTasseli)
 
 ---
 
